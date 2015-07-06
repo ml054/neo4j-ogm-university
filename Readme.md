@@ -31,7 +31,7 @@ Now start your Neo4j server instance, if its not already running.
 Starting the application
 ------------------------
 
-    cd neo4j-spring-examples/sdn-boot
+    cd neo4j-spring-examples/sdn-boot  <-- it doesn't exist
     mvn spring-boot:run
 
 Authentication
